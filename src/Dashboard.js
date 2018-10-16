@@ -33,6 +33,7 @@ export default class Dashboard extends Component {
       <React.Fragment>
         <ContentWrapper>
           <FlyWrapper>
+            hi
             <Fly src='fly.png' alt='Chevron' />
           </FlyWrapper>
         </ContentWrapper>
