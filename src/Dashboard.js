@@ -11,8 +11,6 @@ const ContentWrapper = styled.div`
 
 const FlyWrapper = styled.div`
   display: flex;
-  height: 64px;
-  width: 64px;
   margin: auto;
 `;
 
